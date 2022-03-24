@@ -4,22 +4,22 @@ const Header = () => {
       <h1>
         <img src="/images/logo.png" alt="일룸" />
       </h1>
-      <nav>
-        <ul>
+      <nav className="gnb">
+        <ul className="depth_1">
           <li>
-            <a>Menu 1</a>
+            <a href="#">Menu 1</a>
           </li>
           <li>
-            <a>Menu 2</a>
+            <a href="#">Menu 2</a>
           </li>
           <li>
-            <a>Menu 3</a>
+            <a href="#">Menu 3</a>
           </li>
           <li>
-            <a>Menu 4</a>
+            <a href="#">Menu 4</a>
           </li>
           <li>
-            <a>Menu 5</a>
+            <a href="#">Menu 5</a>
           </li>
         </ul>
       </nav>
