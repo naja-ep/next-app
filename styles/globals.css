@@ -132,9 +132,13 @@ a:hover {
 }
 /* common */
 header {
-  background: #faf;
+  padding: 40px;
+  background: #c08c8c;
 }
 .gnb {
+  display: flex;
+}
+.gnb .depth_1 {
   display: flex;
 }
 footer {
