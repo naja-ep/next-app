@@ -1,0 +1,27 @@
+* {
+  display: block; }
+
+ul,
+ol,
+li {
+  list-style: none; }
+
+div,
+header,
+footer,
+nav,
+section,
+article,
+aside {
+  display: block; }
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 16px;
+  overflow-x: hidden; }
+
+:root {
+  --main: #f00;
+  --white: #fff;
+  --black: #000;
+  --lightgray: #afafaf; }
