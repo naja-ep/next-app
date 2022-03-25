@@ -177,3 +177,18 @@ footer {
 :where(footer) p {
   color: #ccc;
 }
+
+/* component - Board */
+.product_area {
+  background: #faffaf;
+}
+.prod__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prod__list .prod_thumb {
+  width: 200px;
+  height: 200px;
+  background: #faa;
+}

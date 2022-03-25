@@ -19,12 +19,12 @@ const Header = () => {
               </Link>
             </li>
             <li>
-              <Link href="#">
+              <Link href="/src/livingroom">
                 <a>거실</a>
               </Link>
             </li>
             <li>
-              <Link href="#">
+              <Link href="/src/kitchen">
                 <a>주방</a>
               </Link>
             </li>
