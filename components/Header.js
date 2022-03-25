@@ -14,7 +14,7 @@ const Header = () => {
         <nav className="gnb">
           <ul className="depth_1">
             <li>
-              <Link href="/pages/src/bedroom">
+              <Link href="/src/bedroom">
                 <a>침실</a>
               </Link>
             </li>
