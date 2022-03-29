@@ -10,10 +10,6 @@ import baseApiUrl from "../utils/baseApiUrl";
 export default function Home({ data }) {
   return (
     <>
-      <head>
-        <title>개발서버:타이틀</title>
-      </head>
-
       <Header />
       <MainBanner />
       <Board />
