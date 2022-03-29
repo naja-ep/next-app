@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const Header = () => {
   return (
@@ -7,7 +8,7 @@ const Header = () => {
         <h1>
           <Link href="/">
             <a>
-              <img src="/images/logo.png" alt="일룸" />
+              <Image src="/images/logo.png" alt="일룸" />
             </a>
           </Link>
         </h1>
