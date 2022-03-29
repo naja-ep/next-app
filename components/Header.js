@@ -14,28 +14,23 @@ const Header = () => {
         <nav className="gnb">
           <ul className="depth_1">
             <li>
-              <Link href="/src/bedroom">
-                <a>침실</a>
+              <Link href="/src/about">
+                <a>회사소개</a>
               </Link>
             </li>
             <li>
-              <Link href="/src/livingroom">
-                <a>거실</a>
+              <Link href="/src/product">
+                <a>제품소개</a>
               </Link>
             </li>
             <li>
-              <Link href="/src/kitchen">
-                <a>주방</a>
+              <Link href="/src/notice/1">
+                <a>공지사항</a>
               </Link>
             </li>
             <li>
-              <Link href="#">
-                <a>키즈룸</a>
-              </Link>
-            </li>
-            <li>
-              <Link href="#">
-                <a>학생방</a>
+              <Link href="/src/contact">
+                <a>문의</a>
               </Link>
             </li>
           </ul>
