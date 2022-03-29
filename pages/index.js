@@ -1,6 +1,3 @@
-// import Image from "next/image";
-// import head from "next/head";
-
 import Header from "../components/Header";
 import MainBanner from "../components/MainBanner";
 import Board from "../components/Board";
